@@ -1,4 +1,15 @@
 ### ![.](https://github.com/vane)
+- 📫 How to reach me:  
+mail: michal@vane.pl  
+phone: +48 693502616  
+- 🔭 I’m currently working on nothing interesting
+Tech stack I am familiar with:  
+OS: linux, macosx, windows  
+Languages: python, java, javascript, actionscript  
+Libaries: yes
+CI/CD: yes  
+Containers: yes  
+Version Control: yes  
 <!--
 **vane/vane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
