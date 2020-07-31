@@ -6,7 +6,7 @@ phone: +48 693502616
 Tech stack I am familiar with:  
 OS: linux, macosx, windows  
 Languages: python, java, javascript, actionscript  
-Libaries: yes
+Libaries: yes  
 CI/CD: yes  
 Containers: yes  
 Version Control: yes  
