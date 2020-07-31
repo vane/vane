@@ -2,7 +2,7 @@
 - 📫 How to reach me:  
 mail: michal@vane.pl  
 phone: +48 693502616  
-- 🔭 I’m currently working on burning money  
+- 🔭 I’m currently working on burning cash    
 Tech stack I am familiar with:  
 OS: linux, macosx, windows  
 Languages: python, java, javascript, actionscript  
