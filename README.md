@@ -2,7 +2,7 @@
 - 📫 How to reach me:  
 mail: michal@vane.pl  
 phone: +48 693502616  
-- 🔭 I’m currently working on nothing interesting
+- 🔭 I’m currently working on giving back internet content browsing from c\*rp\*r\*ti\*ns to whoever wants and how he wants  
 Tech stack I am familiar with:  
 OS: linux, macosx, windows  
 Languages: python, java, javascript, actionscript  
