@@ -2,7 +2,7 @@
 - 📫 How to reach me:  
 mail: michal@vane.pl  
 phone: +48 693502616  
-- 🔭 I’m currently looking for work  
+- 🔭 I’m currently looking for work and trying to get back on track  
 Tech stack I am familiar with:  
 OS: linux, macosx, windows  
 Languages: python, java, javascript, actionscript  
