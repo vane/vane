@@ -2,7 +2,7 @@
 - 📫 How to reach me:  
 mail: michal@vane.pl  
 phone: +48 693502616  
-- 🔭 I’m currently looking for work and trying to get back on track  
+- 🔭 I’m currently back on track  
 Tech stack I am familiar with:  
 OS: linux, macosx, windows  
 Languages: python, java, javascript, actionscript  
@@ -11,6 +11,7 @@ CI/CD: yes
 Containers: yes  
 Version Control: yes  
 <!--
+looking for work and trying to get
 **vane/vane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
