@@ -5,7 +5,7 @@ phone: +48 693502616
 - 🔭 I’m currently back on track  
 Tech stack I am familiar with:  
 OS: linux, macosx, windows  
-Languages: python, java, javascript, typescript, actionscript
+Languages: python, java, javascript, typescript, actionscript  
 Libaries: yes  
 CI/CD: yes  
 Containers: yes  
