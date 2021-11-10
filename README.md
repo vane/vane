@@ -24,6 +24,7 @@
   <img src="https://vane.pl/assets/donations/2019/Donor2019_t_small.png" width="100">
   <img src="https://vane.pl/assets/donations/2020/2020-membership-badge-2.png" width="100">
   <img src="https://vane.pl/assets/donations/2020/Donor2020_t_small.png" width="100">
+  <img src="https://vane.pl/assets/donations/2021/2021-member-badge.png" width="100">
 </p>
 <!--
 looking for work and trying to get
