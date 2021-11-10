@@ -1,5 +1,5 @@
-<p style="transform: scaleX(-1);">
-  <img src="https://avatars.githubusercontent.com/u/170027?v=4" width="100" height="100">
+<p>
+  <img src="https://avatars.githubusercontent.com/u/170027?v=4" width="32" height="32">
 </p> 
 <p><a href="mailto:michal@vane.pl">:mailbox:</a> michal@vane.pl</p>
 <p>:telephone: +48 693502616</p>
